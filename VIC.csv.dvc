@@ -1,0 +1,5 @@
+outs:
+- md5: 3df449041267d56a963ad2ef2607d5bf
+  size: 66756
+  hash: md5
+  path: VIC.csv
